@@ -1,0 +1,11 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+	int a=5,b=2;
+	int c=(float)a/b;
+	cout<<c;
+	int i=99;
+	for(i=1;i<5;i++){
+		cout<<"hihi";
+	}
+}
